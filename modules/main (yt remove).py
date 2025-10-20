@@ -30,10 +30,10 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 photo = 'https://tinypic.host/images/2025/02/04/IMG_20250204_194908.jpg'
 
 credit ="𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎" 
-OWNER = int(os.environ.get("OWNER", 5680454765))
+OWNER = int(os.environ.get("OWNER", 7306229091))
 try: 
     ADMINS=[] 
-    for x in (os.environ.get("ADMINS", "5680454765").split()):  
+    for x in (os.environ.get("ADMINS", "7306229091").split()):  
         ADMINS.append(int(x)) 
 except ValueError: 
         raise Exception("Your Admins list does not contain valid integers.") 
@@ -47,7 +47,7 @@ bot = Client(
     bot_token=BOT_TOKEN
 )
 
-OWNER = int(os.environ.get("OWNER", 5680454765))
+OWNER = int(os.environ.get("OWNER", 7306229091))
 
 cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 
