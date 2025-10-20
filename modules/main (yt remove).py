@@ -161,7 +161,7 @@ async def start(client: Client, msg: Message):
     await asyncio.sleep(1)
     await start_message.edit_text(
         Data.START.format(msg.from_user.mention) +
-        "Checking status Ok... \nFor command **ᴊᴏɪɴ ᴏᴜʀ <a href='https://t.me/+taZCy5OkoMUwNzI9'>ᴛᴇʟᴇɢʀᴀᴍ Group</a>**\n\n**Bot Made BY 🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌**🔍\n\n"
+        "Checking status Ok... \nFor command **ᴊᴏɪɴ ᴏᴜʀ <a href='https://t.me/+Nip-vlfwaGo5OTBl'>ᴛᴇʟᴇɢʀᴀᴍ Group</a>**\n\n**Bot Made BY 🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌**🔍\n\n"
         "Progress:🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%\n\n"
     )
 
