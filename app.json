@@ -12,23 +12,23 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter Your Api Id",
-            "value": "28094744",
+            "description": "27019361",
+            "value": "27019361",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter Your Api Hash",
-            "value": "a75af4285edc7747c57bb19147ca0b9b",
+            "description": "b75e05daee8ff985a85778dc203dbe30",
+            "value": "b75e05daee8ff985a85778dc203dbe30",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter Your Telegram Bot Token",
-            "value": "",
+            "description": "8108644464:AAFxqPEQnbXULXvDA1IqGs1PLm9HVHFsqo8",
+            "value": "8108644464:AAFxqPEQnbXULXvDA1IqGs1PLm9HVHFsqo8",
             "required": true
         },
         "BOT_NAME": {
-            "description": "Enter Your Telegram Bot Name",
-            "value": "@Nklurluploader_bot",
+            "description": "@my2026upbot",
+            "value": "@my2026upbot",
             "required": true
         },
         "MONGO_URI": {
